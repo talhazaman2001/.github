@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Talha!
 
-   I'm a BSc Mathematics Graduate who has proven experience as a Cloud/DevOps Engineer, whilst documenting my projects that solve real-world business problems
+☁️ I'm a BSc Mathematics Graduate who has proven experience as a Cloud/DevOps Engineer, whilst documenting my projects that solve real-world business problems
 💡 2x AWS Certified (AWS Certified Cloud Practitioner and AWS Solutions Architect Associate    
 📖 Passion for automation through Python/Bash scripts and integrating AI into Cloud Solutions for security and cost optimisation
 ---
