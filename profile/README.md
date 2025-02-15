@@ -30,3 +30,8 @@
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
+
+---
+## 📊 GitHub Stats:
+![Talha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=talhazaman2001&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=talhazaman2001&layout=compact&theme=dark)
