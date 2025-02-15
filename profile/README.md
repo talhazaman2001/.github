@@ -35,5 +35,5 @@
 ## 📊 GitHub Stats:
 ![Talha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=unitedsection&show_icons=true&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=unitedsection&layout=compact&theme=dark)
-![GitHub Commit Activity](https://img.shields.io/github/commit-activity/m/talhazaman2001?style=for-the-badge)
+![GitHub Commit Activity](https://img.shields.io/github/commit-activity/m/unitedsection2001?style=for-the-badge)
 
