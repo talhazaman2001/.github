@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Talha!
 
-☁️ I'm a BSc Mathematics Graduate who has proven experience as a Cloud/DevOps Engineer. I have a passion for automation, security and cost optimisation and GitHub is where I leverage my skills to document all my projects that solve real-world business problems
+☁️ I'm a BSc Mathematics Graduate who has proven experience as a Cloud/DevOps Engineer. I have a passion for automation, security and cost optimisation and GitHub is where I demonstrate my tehcnical skills and document all my projects that solve real-world business problems
 
 💡 2x AWS Certified: AWS Certified Cloud Practitioner & AWS Solutions Architect Associate
 
